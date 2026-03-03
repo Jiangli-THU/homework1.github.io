@@ -21,7 +21,7 @@
   2. information
      - 图像
      - 序列
-  当下：大量、高维的数据
+     - 当下：大量、高维的数据
   3. analysis
      Sequencing Method + Bioinformatics Tool
   4. modeling
