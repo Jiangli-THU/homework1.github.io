@@ -7,6 +7,7 @@
 
 ## 笔记
 下面为本课程笔记
+---
 ### lesson 0
 - 将要学习的内容
   - 编程语言
@@ -38,6 +39,8 @@
     4. question
 - 使用Github托管代码 详见tutorial（https://book.ncrnalab.org/teaching/getting-started）
 - 语言学与生物信息学
+
+---
   
 
 
