@@ -31,11 +31,11 @@
      algorithm —— a computational method used to solve problems'
      - 数字排序算法
      - 动态规划算法
-  Big Data Driven Science范式：
-  1. information
-  2. analysis
-  3. modeling
-  4. question
+  - Big Data Driven Science范式：
+    1. information
+    2. analysis
+    3. modeling
+    4. question
 - 使用Github托管代码 详见tutorial（https://book.ncrnalab.org/teaching/getting-started）
 - 语言学与生物信息学
   
